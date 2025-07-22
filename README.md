@@ -7,3 +7,7 @@
 - **Backend:** Node.js + Express.js
 
 - **Database:** MongoDB
+
+- **Authentication:** JWT (user & admin roles)
+  
+- **Deployment:** Vercel
